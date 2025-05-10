@@ -9,3 +9,18 @@ This repository contains a comprehensive cheat sheet for web application penetra
 - Secret detection, payload lists, and more
 
 *Note*: This content is for educational and ethical hacking purposes only. Unauthorized use against systems without permission is illegal.
+
+## File
+
+- Web_Attack_Cheat_Sheet.pdf – The main cheat sheet document (download/view above)
+
+---
+
+## How to Use
+
+- Clone the repo or download the PDF
+- Use as a quick reference during your testing engagements
+- Integrate with your own red teaming or bug bounty methodology
+
+```bash
+git clone https://github.com/Assem-Ch7/web-attack-cheat-sheet.git
